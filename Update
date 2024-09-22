@@ -60,7 +60,7 @@ view_network_config() {
 }
 
 # Main script loop
-while true; do
+
     display_banner
     display_menu
     read choice
